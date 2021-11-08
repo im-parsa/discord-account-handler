@@ -1,0 +1,25 @@
+{
+  "token":
+  [
+    "TOKEN",
+    "TOKEN",
+    "TOKEN",
+    "TOKEN"
+  ],
+
+  "activity":
+  [
+    "Hello",
+    "im-parsa was",
+    "develop me"
+  ],
+
+  "presence":
+  [
+    "idle",
+    "dnd",
+    "online"
+  ],
+
+  "inviteCode": "RUrks4JqW6"
+}
